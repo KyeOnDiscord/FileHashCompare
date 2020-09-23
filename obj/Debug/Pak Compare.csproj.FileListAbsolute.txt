@@ -1,0 +1,7 @@
+C:\Users\ProMa\source\repos\Pak Compare\obj\Debug\Pak Compare.csprojAssemblyReference.cache
+C:\Users\ProMa\source\repos\Pak Compare\obj\Debug\Pak Compare.csproj.CoreCompileInputs.cache
+C:\Users\ProMa\source\repos\Pak Compare\bin\Debug\PakCompare.exe.config
+C:\Users\ProMa\source\repos\Pak Compare\bin\Debug\PakCompare.exe
+C:\Users\ProMa\source\repos\Pak Compare\bin\Debug\PakCompare.pdb
+C:\Users\ProMa\source\repos\Pak Compare\obj\Debug\PakCompare.exe
+C:\Users\ProMa\source\repos\Pak Compare\obj\Debug\PakCompare.pdb
